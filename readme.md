@@ -3,11 +3,11 @@
 ![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/your-username/titanic-ml-deployment?style=for-the-badge)
+
 
 A interactive web application built with Streamlit for predicting passenger survival on the Titanic using a Random Forest machine learning model. This project demonstrates a full ML pipeline: data exploration, model training, interactive app development, and cloud deployment.
 
-Live Demo: [Titanic Survival Prediction App](https://your-app-url.streamlit.app/) (Replace with your deployed URL after setup)
+Live Demo: [Titanic Survival Prediction App](https://titanic-survival-prediction-app-fp2u5pgvz2wdckx9oz6gm2.streamlit.app/) 
 
 ## Table of Contents
 
